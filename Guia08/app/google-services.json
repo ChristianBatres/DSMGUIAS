@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981807398665",
+    "firebase_url": "https://fir-dbrealtime-b3a57-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-b3a57",
+    "storage_bucket": "fir-dbrealtime-b3a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981807398665:android:5c2d6049f9ae3b8ad61dd8",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.guia08app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981807398665-nskjkh6q7erivt0a56062uk1m2n89vha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FI6DtYAklRqnIOm6c9PgVMPziWXuuNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981807398665-nskjkh6q7erivt0a56062uk1m2n89vha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
